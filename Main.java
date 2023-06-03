@@ -3,7 +3,8 @@ package unit12.Homework.Shape;
 public class Main {
     public static void main(String[] args) {
 
-        System.out.println("Die Einheit ist in cm");
+        System.out.println("Die Einheit für Perimeter ist in cm");
+        System.out.println("Die Einheit für Area ist in cm²");
         System.out.println();
 
         Rectangle r1 = new Rectangle(3, 2);
